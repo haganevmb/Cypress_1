@@ -11,3 +11,5 @@ Bienvenido al curso de Cypress.
 4.-Parar consola --> ctrl + C
 
 5.- Para crear un video hay que poner cypress run --spec "ruta del archivo a ejecutar"
+
+6.- npx cypress run --record --key 9dba5d12-bc4f-40fc-a90a-c86a11209eeb (para ejecutar en la nube)
