@@ -1,0 +1,13 @@
+Bienvenido al curso de Cypress.
+
+1.-npm init
+
+2.-npm install cypress --save-dev --> Instalación.
+
+3.-node_modules\.bin\cypress open
+
+3.1-npx cypress open (para abrir cypress)
+
+4.-Parar consola --> ctrl + C
+
+5.- Para crear un video hay que poner cypress run --spec "ruta del archivo a ejecutar"

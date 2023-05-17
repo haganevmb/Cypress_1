@@ -1,0 +1,22 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "Curso de Cypress 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress": "^12.9.0"
+  },
+  "cypress-cucumber-preprocessor": {"nonGlobalStepDefinitions": true}
+}
